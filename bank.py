@@ -1,0 +1,5 @@
+bank = int (10000)
+print (bank)
+input()
+new_value = (input - bank)
+print (new_value)
